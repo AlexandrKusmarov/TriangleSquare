@@ -1,0 +1,1 @@
+java -jar TriangleSearcher.jar in.txt out.txt
